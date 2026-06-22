@@ -16,8 +16,7 @@ function App() {
       <Weather />
       <Props4 label="Counter" />
       <PROPS2 name="Bella" mood="🔥" color="pink" />
-      <PROPS2 name="Lotem" mood="😊" color="lightblue" />
-      <PROPS2 name="Lior" mood="😴" color="lavender" />
+   
     </>
   )
 }

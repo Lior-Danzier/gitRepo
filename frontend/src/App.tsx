@@ -2,6 +2,7 @@
 import './App.css'
 import Props from './Props'
 import Weather from './Weather'
+import PROPS2 from './Props2'
 
 function App() {
   return (
@@ -10,6 +11,9 @@ function App() {
       <h2>commit to git by Lotem</h2>
       <Props msg="Dev Teams" />
       <Weather />
+      <PROPS2 name="Bella" mood="🔥" color="pink" />
+      <PROPS2 name="Lotem" mood="😊" color="lightblue" />
+      <PROPS2 name="Lior" mood="😴" color="lavender" />
     </>
   )
 }

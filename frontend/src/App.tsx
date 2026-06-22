@@ -12,8 +12,7 @@ function App() {
       <Props msg="Dev Teams" />
       <Weather />
       <PROPS2 name="Bella" mood="🔥" color="pink" />
-      <PROPS2 name="Lotem" mood="😊" color="lightblue" />
-      <PROPS2 name="Lior" mood="😴" color="lavender" />
+   
     </>
   )
 }

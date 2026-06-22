@@ -6,6 +6,7 @@ import Weather from './Weather'
 function App() {
   return (
     <>
+      <h1>commit to git by lior</h1>
       <Props msg="Dev Teams" />
       <Weather />
     </>
